@@ -255,11 +255,16 @@ export default {
           ClashR: "clashr",
           Surge2: "surge&ver=2",
         },
-        backendOptions: [{ value: "http://127.0.0.1:25500/sub?" }],
+        backendOptions: [{ value: "https://vast-basin-69626.herokuapp.com/sub?" }],
         remoteConfig: [
           {
             label: "universal",
             options: [
+              {
+                label: "MyConfig",
+                value:
+                  "https://gist.github.com/volank/c9f036fcab9dbaae1de3a46a35e7ff7a/raw/ab5ad513bb2302a7911bf2870d34e5afd8c10893/ACL4SSR_Online_Mini"
+              },
               {
                 label: "No-Urltest",
                 value:
