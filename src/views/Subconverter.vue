@@ -263,7 +263,7 @@ export default {
               {
                 label: "MyConfig",
                 value:
-                  "https://gist.github.com/volank/c9f036fcab9dbaae1de3a46a35e7ff7a/raw/ab5ad513bb2302a7911bf2870d34e5afd8c10893/ACL4SSR_Online_Mini"
+                  "https://gist.github.com/volank/bfbd3a4949d25f6bdbad448168023093/raw/5bdcf0f02b4240e54171e6042bfcffa4c485b58c/MyConfig"
               },
               {
                 label: "No-Urltest",
